@@ -1,6 +1,10 @@
 version: '3.4'
 
 services:
+  productsdb:
+    image: postgres
+  pgadmin:
+    image: dpage/pgadmin4
   products.api:
     image: ${DOCKER_REGISTRY-}productsapi
     build:
