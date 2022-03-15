@@ -1,7 +1,11 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\src",
+    "\\src\\Services",
+    "\\src\\Services\\Products",
+    "\\src\\Services\\Products\\Products.Application"
   ],
-  "SelectedNode": "\\F:\\MicroService",
+  "SelectedNode": "\\src\\Services\\Products\\Products.Application\\Class1.cs",
   "PreviewInSolutionExplorer": false
 }
