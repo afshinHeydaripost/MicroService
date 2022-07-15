@@ -4,8 +4,9 @@
     "\\src",
     "\\src\\Services",
     "\\src\\Services\\Products",
+    "\\src\\Services\\Products\\Products.Api",
     "\\src\\Services\\Products\\Products.Application"
   ],
-  "SelectedNode": "\\src\\Services\\Products\\Products.Application\\Class1.cs",
+  "SelectedNode": "\\src\\Services\\Products\\Products.Api\\Products.Api.csproj",
   "PreviewInSolutionExplorer": false
 }
